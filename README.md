@@ -51,22 +51,25 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefireatom&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Get in Touch 
 - 💼 [LinkedIn](#)  
-- 📧 your.email@example.com  
+- ✈️ [Telegram](https://t.me/@tfa5643)  
+- 🔵 [VK](https://vk.com/dante9364)
+- 📧 Ivaner1234@yandex.ru 
+
 
 ---
 ✨ *Always learning. Always building.*  
