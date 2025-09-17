@@ -66,8 +66,8 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 
 ## 📫 Get in Touch 
 - 💼 [LinkedIn](#)  
-- ✈️ [Telegram](https://t.me/@tfa5643)  
-- 🔵 [VK](https://vk.com/dante9364)
+- ✈️ 📱 [Telegram](https://t.me/@tfa5643)  
+- 📘🔵 [VK](https://vk.com/dante9364)
 - 📧 Ivaner1234@yandex.ru 
 
 
