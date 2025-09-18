@@ -48,6 +48,13 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 
 ---
 
+<!--START_RECENT_REPOS-->
+## 🚀 Recent Projects
+*(updated automatically — commit history / recently updated repos will appear here)*
+<!--END_RECENT_REPOS-->
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -64,12 +71,11 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 
 ---
 
-## 📫 Get in Touch 
+## 📫 Get in Touch
 - 💼 [LinkedIn](#)  
-- ✈️ 📱 [Telegram](https://t.me/@tfa5643)  
-- 📘🔵 [VK](https://vk.com/dante9364)
+- ✈️ [Telegram](https://t.me/@tfa5643)  
+- 🔵 [VK](https://vk.com/dante9364)  
 - 📧 Ivaner1234@yandex.ru 
 
-
 ---
-✨ *Always learning. Always building.*  
+✨ *Always learning. Always building.*
