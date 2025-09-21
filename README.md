@@ -1,6 +1,7 @@
 # 👋 Hi there!
 
-I’m a **self-taught developer** and technology enthusiast, passionate about creating efficient and practical solutions.  
+I’m currently pursuing an **Engineering Bachelor’s degree** in **Instrumentation Engineering** (Приборостроение).  
+At the same time, I’m a **self-taught developer** and technology enthusiast, passionate about creating efficient and practical solutions.  
 My main focus areas are **C++ development**, **algorithms & data structures**, and **embedded programming**.  
 
 ---
@@ -48,10 +49,11 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 
 ---
 
-<!--START_RECENT_REPOS-->
 ## 🚀 Recent Projects
 *(updated automatically — commit history / recently updated repos will appear here)*
-<!--END_RECENT_REPOS-->
+
+<!--RECENT_REPOS:start-->
+<!--RECENT_REPOS:end-->
 
 ---
 
@@ -73,7 +75,7 @@ I enjoy reading philosophy 📚, exploring new technologies ⚙️, and vibecodi
 
 ## 📫 Get in Touch
 - 💼 [LinkedIn](#)  
-- ✈️ [Telegram](https://t.me/@tfa5643)  
+- ✈️ [Telegram](https://t.me/tfa5643)  
 - 🔵 [VK](https://vk.com/dante9364)  
 - 📧 Ivaner1234@yandex.ru 
 
