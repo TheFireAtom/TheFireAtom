@@ -3,7 +3,7 @@ name: Update README - Recent Projects
 # Запускается по расписанию и вручную
 on:
   schedule:
-    - cron: "0 */12 * * *"   # каждые 12 часов (подстрой при желании)
+    - cron: "0 */12 * * *"   # каждые 12 часов
   workflow_dispatch:
 
 jobs:
@@ -21,8 +21,8 @@ jobs:
 
       - name: Generate recent repos markdown
         env:
-          USERNAME: YOUR_GITHUB_USERNAME   # <-- замените на ваш GitHub username
-          COUNT: 5                         # сколько репозиториев взять
+          USERNAME: thefireatom       # <-- твой GitHub username
+          COUNT: 5                    # сколько репозиториев взять
         run: |
           echo "Fetching latest $COUNT repos for $USERNAME ..."
           API_URL="https://api.github.com/users/$USERNAME/repos?type=owner&sort=updated&per_page=$COUNT"
@@ -35,7 +35,7 @@ jobs:
 
           # Делаем безопасную замену между маркерами в README.md
           python3 - <<'PY'
-import sys,io,re
+import re
 with open('README.md','r',encoding='utf-8') as f:
     text=f.read()
 start='<!--START_RECENT_REPOS-->'
