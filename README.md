@@ -12,22 +12,22 @@
 
 **Programming**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+\
+
 
 **Embedded Systems**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![AVR](https://img.shields.io/badge/AVR-EE1B24?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+\
+
 
 **Engineering Software**
 
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![OrCAD](https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge)
-![P-CAD](https://img.shields.io/badge/P--CAD-555555?style=for-the-badge)
-![Mathcad](https://img.shields.io/badge/Mathcad-005A9C?style=for-the-badge)
-![MATLAB / Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+
+
+\
+
 
 ---
 
@@ -97,9 +97,28 @@
 
 ---
 
+## 🎓 Дипломный проект
+
+### WAV Parser & Guitar Effects Emulator
+
+Разработка приложения на C++ для чтения WAV-файлов и обработки аудиоданных с последующей реализацией алгоритмов гитарных эффектов.
+
+В рамках проекта изучаются:
+
+- Структура WAV-файлов и формат PCM.
+- Организация аудиоданных и работа с аудиобуферами.
+- Чтение и обработка аудиосэмплов.
+- Алгоритмы цифровой обработки аудиосигналов.
+- Принципы реализации гитарных эффектов.
+
+**Технологии:** C++, WAV / PCM, Digital Signal Processing.
+
+**Статус:** В разработке.
+
+---
+
 ## 💻 Самостоятельные проекты
 
-- **WAV Parser & Guitar Effects Emulator** — разработка WAV-парсера и программной модели гитарных эффектов на C++. *(В разработке.)*
 - **Battle City** — консольная реализация игры на C++ с объектно-ориентированной архитектурой.
 - **Python Projects** — небольшие приложения, скрипты и Telegram-боты.
 - Другие учебные и экспериментальные проекты.
@@ -112,27 +131,11 @@
 
 ---
 
-## 📌 Недавно обновлённые проекты
-
-<!--RECENT_REPOS:start-->
-<!--RECENT_REPOS:end-->
-
----
-
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/TheFireAtom">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/TheFireAtom">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  </a>
-</p>
+\<p align="center">   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=thefireatom\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Stats"/>   \</a>   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages"/>   \</a> \</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=thefireatom\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/> \</p>
 
 ---
 
