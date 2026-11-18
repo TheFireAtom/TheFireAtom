@@ -114,9 +114,8 @@
 
 ## 📌 Недавно обновлённые проекты
 
-\<!--RECENT_REPOS\:start-->
-
-\<!--RECENT_REPOS\:end-->
+<!--RECENT_REPOS:start-->
+<!--RECENT_REPOS:end-->
 
 ---
 
