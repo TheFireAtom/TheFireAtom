@@ -10,21 +10,24 @@
 
 ## 🛠️ Инструменты и технологии
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)" alt="C++"/>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python"/>
-&#x20; \<img src="[https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)" alt="Arduino"/>
-&#x20; \<img src="[https://img.shields.io/badge/AVR-EE1B24?style=for-the-badge](https://img.shields.io/badge/AVR-EE1B24?style=for-the-badge)" alt="AVR"/>
-&#x20; \<img src="[https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white](https://img.shields.io/badge/STM32-03234B?style=for-the-badge\&logo=stmicroelectronics\&logoColor=white)" alt="STM32"/>
-\</p>
+**Programming**
 
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge\&logo=autodesk\&logoColor=white)" alt="Autodesk Inventor"/>
-&#x20; \<img src="[https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge](https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge)" alt="OrCAD"/>
-&#x20; \<img src="[https://img.shields.io/badge/P--CAD-555555?style=for-the-badge](https://img.shields.io/badge/P--CAD-555555?style=for-the-badge)" alt="P-CAD"/>
-&#x20; \<img src="[https://img.shields.io/badge/Mathcad-005A9C?style=for-the-badge](https://img.shields.io/badge/Mathcad-005A9C?style=for-the-badge)" alt="Mathcad"/>
-&#x20; \<img src="[https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge\&logo=mathworks\&logoColor=white)" alt="MATLAB / Simulink"/>
-\</p>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Embedded Systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-EE1B24?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+**Engineering Software**
+
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![OrCAD](https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge)
+![P-CAD](https://img.shields.io/badge/P--CAD-555555?style=for-the-badge)
+![Mathcad](https://img.shields.io/badge/Mathcad-005A9C?style=for-the-badge)
+![MATLAB / Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
