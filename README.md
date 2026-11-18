@@ -12,22 +12,22 @@
 
 **Programming**
 
-\
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Embedded Systems**
 
-
-\
-
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-EE1B24?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 **Engineering Software**
 
-
-
-
-\
-
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![OrCAD](https://img.shields.io/badge/OrCAD-CC0000?style=for-the-badge)
+![P-CAD](https://img.shields.io/badge/P--CAD-555555?style=for-the-badge)
+![Mathcad](https://img.shields.io/badge/Mathcad-005A9C?style=for-the-badge)
+![MATLAB / Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
 
@@ -133,9 +133,11 @@
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=thefireatom\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Stats"/>   \</a>   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages"/>   \</a> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true)
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=thefireatom\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true)
 
 ---
 
