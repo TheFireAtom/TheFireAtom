@@ -122,9 +122,18 @@
 
 ## 📊 GitHub Statistics
 
-\<p align="center">   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=thefireatom\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Stats"/>   \</a>   \<a href="[https://github.com/TheFireAtom](https://github.com/TheFireAtom)">     \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages"/>   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/TheFireAtom">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=thefireatom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/TheFireAtom">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefireatom&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </a>
+</p>
 
-\<p align="center">   \<a href="[https://git.io/streak-stats](https://git.io/streak-stats)">     \<img src="[https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=thefireatom\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak"/>   \</a> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thefireatom&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
